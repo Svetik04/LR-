@@ -1,0 +1,56 @@
+body{
+    display: block;
+    background: url(img/bggggg.jpg);
+
+}
+
+.boxxx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    background: #eef7f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2200px;
+    height: 1600px;
+    border-radius: 10%;
+}
+
+.foto{
+    margin: 30px;
+}
+
+.img{
+    height: 1150px;
+    width: 700px;
+    border-radius: 100%;
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+
+.osb{
+    margin: 40px;
+}
+
+.mr{
+    font-size: 35px;
+}
+
+.inf_1{
+    font-size: 30px;
+}
